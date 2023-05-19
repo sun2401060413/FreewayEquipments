@@ -1,5 +1,7 @@
 # FreewayEquipments
-A Unity-based Open-Source Package for freeway Scene Creation and Traffic Simulation
+A Unity-based Open-Source Package for freeway Scene Creation and Traffic Simulation  
+
+![Scene created by FreewayEquipments](https://sunzhu-aliyun-oss-bucket.oss-cn-beijing.aliyuncs.com/img/20200723092851.png)  
 
 FreewayEquipments is an open-source package library designed for creating realistic freeway traffic simulation scenarios within the Unity engine. It provides a comprehensive set of features that enable the creation of immersive public road scenes, including the establishment of lifelike road networks, deployment of electromechanical devices, control of these devices, configuration of weather and lighting conditions, management of traffic flow, and generation of simulated traffic events.
 
